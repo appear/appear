@@ -7,5 +7,3 @@
 - 주도적 개발하고 의견을 낼 수 있는 환경을 좋아합니다.
 - 대화가 많은 조직을 좋아합니다
 - 기술 반영에 유연한 회사를 좋아합니다
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=appear)](https://github.com/anuraghazra/github-readme-stats)
